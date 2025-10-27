@@ -1,117 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\",
+  "WorkspaceRootPath": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\models\\slothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|c:\\users\\max fulco\\videos\\distribuicao_turmas\\models\\slothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\slothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\classespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\classespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\classespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\viewmodels\\distributionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\viewmodels\\distributionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:viewmodels\\distributionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\viewmodels\\classesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\viewmodels\\classesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:viewmodels\\classesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|c:\\users\\max fulco\\videos\\distribuicaoturmas\\models\\classsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\models\\classsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\classsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\classespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\classespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\classespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\models\\scheduleslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\models\\scheduleslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\scheduleslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\models\\allocationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\models\\allocationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\allocationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|c:\\users\\max fulco\\videos\\distribuicaoturmas\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|c:\\users\\max fulco\\videos\\distribuicaoturmas\\views\\roomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\roomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\roomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\roomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\roomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\roomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\viewmodels\\roomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\viewmodels\\roomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:viewmodels\\roomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|c:\\users\\max fulco\\videos\\distribuicaoturmas\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\distributionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\distributionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\distributionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\views\\distributionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\views\\distributionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:views\\distributionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\models\\distributionsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\models\\distributionsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:models\\distributionsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\resources\\theme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\resources\\theme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:resources\\theme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\resources\\theme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\resources\\theme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:resources\\theme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\helpers\\debouncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\helpers\\debouncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:helpers\\debouncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\helpers\\notbooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\helpers\\notbooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:helpers\\notbooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A26539-FBC0-466E-81DF-AA2BD8E0B179}|DistribuicaoTurmas.csproj|solutionrelative:helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -128,23 +128,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClassesPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\ClassesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\ClassesPage.xaml",
               "RelativeDocumentMoniker": "Views\\ClassesPage.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\ClassesPage.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\ClassesPage.xaml",
               "RelativeToolTip": "Views\\ClassesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T16:07:45.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T16:07:45.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SlotHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\SlotHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\SlotHelper.cs",
               "RelativeDocumentMoniker": "Models\\SlotHelper.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\SlotHelper.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\SlotHelper.cs",
               "RelativeToolTip": "Models\\SlotHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T17:18:00.031Z",
               "EditorCaption": ""
@@ -153,126 +152,117 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ScheduleSlot.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\ScheduleSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\ScheduleSlot.cs",
               "RelativeDocumentMoniker": "Models\\ScheduleSlot.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\ScheduleSlot.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\ScheduleSlot.cs",
               "RelativeToolTip": "Models\\ScheduleSlot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T17:17:55.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T17:17:55.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DistributionViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\DistributionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\DistributionViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\DistributionViewModel.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\DistributionViewModel.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\DistributionViewModel.cs",
               "RelativeToolTip": "ViewModels\\DistributionViewModel.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAYwF8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:50:07.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T18:50:07.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClassesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\ClassesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\ClassesViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ClassesViewModel.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\ClassesViewModel.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\ClassesViewModel.cs",
               "RelativeToolTip": "ViewModels\\ClassesViewModel.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T16:37:55.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T16:37:55.023Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DistributionService.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Services\\DistributionService.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Services\\DistributionService.cs",
               "RelativeDocumentMoniker": "Services\\DistributionService.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Services\\DistributionService.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Services\\DistributionService.cs",
               "RelativeToolTip": "Services\\DistributionService.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAuwC0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:47:38.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T18:47:38.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ClassSection.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\ClassSection.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\ClassSection.cs",
               "RelativeDocumentMoniker": "Models\\ClassSection.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\ClassSection.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\ClassSection.cs",
               "RelativeToolTip": "Models\\ClassSection.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T21:09:43.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T21:09:43.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ClassesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\ClassesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\ClassesPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\ClassesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\ClassesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\ClassesPage.xaml.cs",
               "RelativeToolTip": "Views\\ClassesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T16:37:51.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T16:37:51.154Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AllocationResult.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\AllocationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\AllocationResult.cs",
               "RelativeDocumentMoniker": "Models\\AllocationResult.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\AllocationResult.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\AllocationResult.cs",
               "RelativeToolTip": "Models\\AllocationResult.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T17:18:03.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T17:18:03.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Models\\Room.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\Room.cs",
               "RelativeToolTip": "Models\\Room.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T20:12:02.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T20:12:02.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "RoomsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\RoomsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\RoomsPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\RoomsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\RoomsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\RoomsPage.xaml.cs",
               "RelativeToolTip": "Views\\RoomsPage.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:16:06.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T19:16:06.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "DistributionPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\DistributionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\DistributionPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\DistributionPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\DistributionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\DistributionPage.xaml.cs",
               "RelativeToolTip": "Views\\DistributionPage.xaml.cs",
               "ViewState": "AgIAAAsBAAAAAAAAAAAcwBwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAcwDoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,47 +284,44 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "RoomsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\RoomsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\RoomsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RoomsViewModel.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\RoomsViewModel.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\RoomsViewModel.cs",
               "RelativeToolTip": "ViewModels\\RoomsViewModel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA7wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:16:35.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T19:16:35.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "RoomsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\RoomsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\RoomsPage.xaml",
               "RelativeDocumentMoniker": "Views\\RoomsPage.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\RoomsPage.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\RoomsPage.xaml",
               "RelativeToolTip": "Views\\RoomsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T16:08:04.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T16:08:04.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\ViewModels\\RelayCommand.cs",
               "RelativeToolTip": "ViewModels\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T20:35:50.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T20:35:50.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-24T18:27:06.373Z"
@@ -343,9 +330,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "DistributionPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\DistributionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\DistributionPage.xaml",
               "RelativeDocumentMoniker": "Views\\DistributionPage.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\DistributionPage.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\DistributionPage.xaml",
               "RelativeToolTip": "Views\\DistributionPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-24T18:19:04.783Z"
@@ -354,22 +341,21 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Theme.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Resources\\Theme.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Resources\\Theme.xaml",
               "RelativeDocumentMoniker": "Resources\\Theme.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Resources\\Theme.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Resources\\Theme.xaml",
               "RelativeToolTip": "Resources\\Theme.xaml",
               "ViewState": "AgIAAO4AAAAAAAAAAAAcwAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T15:26:00.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T15:26:00.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,9 +365,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,9 +377,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "DistributionSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\DistributionSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\DistributionSnapshot.cs",
               "RelativeDocumentMoniker": "Models\\DistributionSnapshot.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Models\\DistributionSnapshot.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Models\\DistributionSnapshot.cs",
               "RelativeToolTip": "Models\\DistributionSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,33 +389,31 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\App.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T15:25:48.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T15:25:48.591Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Theme.xaml",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Resources\\Theme.xaml",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Resources\\Theme.xaml",
               "RelativeDocumentMoniker": "Resources\\Theme.xaml",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Resources\\Theme.xaml",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Resources\\Theme.xaml",
               "RelativeToolTip": "Resources\\Theme.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-25T15:57:32.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T15:57:32.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "StorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Services\\StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Services\\StorageService.cs",
               "RelativeDocumentMoniker": "Services\\StorageService.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Services\\StorageService.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Services\\StorageService.cs",
               "RelativeToolTip": "Services\\StorageService.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAgwNoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,9 +423,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Debouncer.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\Debouncer.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\Debouncer.cs",
               "RelativeDocumentMoniker": "Helpers\\Debouncer.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\Debouncer.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\Debouncer.cs",
               "RelativeToolTip": "Helpers\\Debouncer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,9 +435,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "NotBoolToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\NotBoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\NotBoolToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "Helpers\\NotBoolToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\NotBoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\NotBoolToVisibilityConverter.cs",
               "RelativeToolTip": "Helpers\\NotBoolToVisibilityConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -463,9 +447,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "BoolToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\BoolToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "Helpers\\BoolToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\DistribuicaoTurmas\\Helpers\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Max Fulco\\Videos\\Distribuicao_Turmas\\Helpers\\BoolToVisibilityConverter.cs",
               "RelativeToolTip": "Helpers\\BoolToVisibilityConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
