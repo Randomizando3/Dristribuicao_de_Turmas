@@ -1,0 +1,218 @@
+﻿<UserControl x:Class="DistribuicaoTurmas.Views.RoomsPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- ======= Recursos locais (válidos só nesta tela) ======= -->
+    <UserControl.Resources>
+        <!-- Paleta -->
+        <SolidColorBrush x:Key="HeaderBg"        Color="#F5F7FA"/>
+        <SolidColorBrush x:Key="HeaderFg"        Color="#1F2937"/>
+        <SolidColorBrush x:Key="RowBg"           Color="#FFFFFFFF"/>
+        <SolidColorBrush x:Key="AltRowBg"        Color="#FFF7F9FC"/>
+        <SolidColorBrush x:Key="GridLine"        Color="#D9E1EC"/>
+        <SolidColorBrush x:Key="SelectionBg"     Color="#E0F2FE"/>
+        <SolidColorBrush x:Key="SelectionBorder" Color="#93C5FD"/>
+
+        <!-- Título -->
+        <Style x:Key="H1" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="{StaticResource HeaderFg}"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <!-- Cabeçalho moderno -->
+        <Style x:Key="ModernHeader" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="Background" Value="{StaticResource HeaderBg}"/>
+            <Setter Property="Foreground" Value="{StaticResource HeaderFg}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="8,0,18,0"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+            <Setter Property="BorderBrush" Value="{StaticResource GridLine}"/>
+            <Setter Property="BorderThickness" Value="0,0,0,1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="20"/>
+                                    <ColumnDefinition Width="1"/>
+                                    <ColumnDefinition Width="8"/>
+                                </Grid.ColumnDefinitions>
+
+                                <ContentPresenter Grid.Column="0"
+                                                  HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                  VerticalAlignment="Center"
+                                                  Margin="{TemplateBinding Padding}"/>
+
+                                <Grid Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Path x:Name="AscPath" Stroke="#64748B" StrokeThickness="1.4"
+                                          Data="M 2 10 L 6 6 L 10 10"
+                                          Stretch="Uniform" Width="12" Height="12"
+                                          Visibility="Collapsed"/>
+                                    <Path x:Name="DescPath" Stroke="#64748B" StrokeThickness="1.4"
+                                          Data="M 2 6 L 6 10 L 10 6"
+                                          Stretch="Uniform" Width="12" Height="12"
+                                          Visibility="Collapsed"/>
+                                </Grid>
+
+                                <Border Grid.Column="2" Background="{StaticResource GridLine}"
+                                        Width="1" Margin="0,8,0,8"/>
+
+                                <Thumb x:Name="PART_RightHeaderGripper"
+                                       Grid.Column="3" Cursor="SizeWE"
+                                       HorizontalAlignment="Stretch" Background="Transparent"/>
+                            </Grid>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#F0F5FA"/>
+                            </Trigger>
+                            <Trigger Property="SortDirection" Value="Ascending">
+                                <Setter TargetName="AscPath" Property="Visibility" Value="Visible"/>
+                                <Setter TargetName="DescPath" Property="Visibility" Value="Collapsed"/>
+                            </Trigger>
+                            <Trigger Property="SortDirection" Value="Descending">
+                                <Setter TargetName="AscPath" Property="Visibility" Value="Collapsed"/>
+                                <Setter TargetName="DescPath" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Células -->
+        <Style x:Key="CenteredCell" TargetType="DataGridCell">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="8,0"/>
+            <Setter Property="BorderBrush" Value="{StaticResource GridLine}"/>
+            <Setter Property="BorderThickness" Value="0,0,0,1"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="Foreground" Value="{StaticResource HeaderFg}"/>
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="{StaticResource SelectionBg}"/>
+                    <Setter Property="BorderBrush" Value="{StaticResource SelectionBorder}"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#F2F8FF"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Textos -->
+        <Style x:Key="CenteredTextBlock" TargetType="TextBlock">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="CenteredTextBox" TargetType="TextBox">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="6,2"/>
+        </Style>
+
+        <!-- CheckBox centralizado (para edição e exibição) -->
+        <Style x:Key="CenteredCheckBox" TargetType="CheckBox">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="IsThreeState" Value="False"/>
+        </Style>
+    </UserControl.Resources>
+
+    <DockPanel LastChildFill="True">
+
+        <!-- Título + ações -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,12">
+            <TextBlock Text="Edição de Salas" Style="{StaticResource H1}" Margin="0,0,12,0"/>
+            <Button Content="Adicionar Sala" Command="{Binding AddRoomCommand}" />
+            <Button Content="Remover Selecionada" Command="{Binding RemoveSelectedCommand}" Margin="8,0,0,0"/>
+        </StackPanel>
+
+        <!-- ======= DataGrid ======= -->
+        <DataGrid x:Name="RoomsGrid"
+                  ItemsSource="{Binding Rooms}"
+                  SelectedItem="{Binding SelectedRoom, Mode=TwoWay}"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="False"
+
+                  HeadersVisibility="Column"
+                  ColumnHeaderStyle="{StaticResource ModernHeader}"
+                  CellStyle="{StaticResource CenteredCell}"
+
+                  GridLinesVisibility="All"
+                  HorizontalGridLinesBrush="{StaticResource GridLine}"
+                  VerticalGridLinesBrush="{StaticResource GridLine}"
+
+                  RowHeaderWidth="0"
+                  RowHeight="36"
+                  ColumnHeaderHeight="38"
+                  AlternationCount="2"
+                  RowBackground="{StaticResource RowBg}"
+                  AlternatingRowBackground="{StaticResource AltRowBg}"
+
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  CanUserResizeRows="False"
+                  CanUserReorderColumns="True"
+                  CanUserResizeColumns="True"
+                  CanUserSortColumns="True"
+
+                  SelectionMode="Single"
+                  SelectionUnit="FullRow"
+                  SnapsToDevicePixels="True"
+                  BorderThickness="1"
+                  BorderBrush="{StaticResource GridLine}">
+
+            <DataGrid.Columns>
+
+                <!-- Número da Sala -->
+                <DataGridTextColumn Header="Número da Sala"
+                                    Binding="{Binding Number, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                    SortMemberPath="Number"
+                                    Width="2*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style BasedOn="{StaticResource CenteredTextBlock}" TargetType="TextBlock"/>
+                    </DataGridTextColumn.ElementStyle>
+                    <DataGridTextColumn.EditingElementStyle>
+                        <Style BasedOn="{StaticResource CenteredTextBox}" TargetType="TextBox"/>
+                    </DataGridTextColumn.EditingElementStyle>
+                </DataGridTextColumn>
+
+                <!-- Capacidade -->
+                <DataGridTextColumn Header="Capacidade"
+                                    Binding="{Binding Capacity, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                    SortMemberPath="Capacity"
+                                    Width="130">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style BasedOn="{StaticResource CenteredTextBlock}" TargetType="TextBlock"/>
+                    </DataGridTextColumn.ElementStyle>
+                    <DataGridTextColumn.EditingElementStyle>
+                        <Style BasedOn="{StaticResource CenteredTextBox}" TargetType="TextBox"/>
+                    </DataGridTextColumn.EditingElementStyle>
+                </DataGridTextColumn>
+
+                <!-- Computadores (✓/✗) -->
+                <DataGridCheckBoxColumn Header="Computadores"
+                                        Binding="{Binding HasComputers, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                        SortMemberPath="HasComputers"
+                                        Width="140">
+                    <DataGridCheckBoxColumn.ElementStyle>
+                        <Style BasedOn="{StaticResource CenteredCheckBox}" TargetType="CheckBox"/>
+                    </DataGridCheckBoxColumn.ElementStyle>
+                    <DataGridCheckBoxColumn.EditingElementStyle>
+                        <Style BasedOn="{StaticResource CenteredCheckBox}" TargetType="CheckBox"/>
+                    </DataGridCheckBoxColumn.EditingElementStyle>
+                </DataGridCheckBoxColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</UserControl>
